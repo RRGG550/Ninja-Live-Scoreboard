@@ -1,5 +1,5 @@
 {
-  "company": "mytimingcompany", //Name of your timing company with no spacing (e.g. ninjatiming, halfmiletiming, elitetiming, etc.)
-  "uid": "AAAABBBBCCCDDDDEEEEFFFFGGGGGHHHH12", //UID Provided to you
-  "directory": "C:/Users/User/Documents/MeetPro2 Report Templates" //Replace with your MeetPro2 Report Templates Folder Path
+  "company": "mytimingcompany",
+  "uid": "AAAABBBBCCCDDDDEEEEFFFFGGGGGHHHH12",
+  "directory": "C:/Users/User/Documents/MeetPro2 Report Templates"
 }
